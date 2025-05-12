@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Clayton Chung
 
-<!--
-**clayton-chung/clayton-chung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at the University of British Columbia, with a passion for software development and solving problems with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I Do
+
+- **Current focus**: Robotics with ROS 2, CUDA-accelerated computing, and embedded systems.
+- **Learning**: Systems architecture and real-time optimization.
+- **Design Team**: Member of **UBC AgroBot's Applied AI - System Architecture** subteam
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** C/C++, Python, Java, SQL, SystemVerilog
+- **Frameworks:** ROS2, React
+- **Platforms & Hardware**: Arduino, CUDA, Linux
+
+---
+
+### ⭐ Fun Fact
+
+I build custom mechanical keyboards in my free time!
